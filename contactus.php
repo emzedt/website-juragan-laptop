@@ -33,19 +33,19 @@ if (!isset($_SESSION['username'])) {
             <tbody>
                 <tr>
                     <td width="81%">
-                        <a class="navbar-brand" href="../TestLaptop/Pelanggan/main.php" style="color: #66A5FE; font-size: 22px; font-weight: 600; margin-right: 750px">
+                        <a class="navbar-brand" href="../JuraganLaptop/Pelanggan/main.php" style="color: #66A5FE; font-size: 22px; font-weight: 600; margin-right: 750px">
                             <img src="image/LogoJL.png" width="50" height="50" alt="Logo">JuraganLaptop
                         </a>
                     </td>
                     <td width="7%">
-                        <a style="text-decoration: none; color: #299ee4" href="../TestLaptop/Pelanggan/logout.php"><i class="fa-solid fa-right-from-bracket" style="color: #299ee4"></i>Logout</a>
+                        <a style="text-decoration: none; color: #299ee4" href="../JuraganLaptop/Pelanggan/logout.php"><i class="fa-solid fa-right-from-bracket" style="color: #299ee4"></i>Logout</a>
                     </td>
                     <td>
-                        <a href="../TestLaptop/Pelanggan/cart.php" style="text-decoration: none; margin-right: 10px"><i class="fa-solid fa-cart-shopping"></i>
+                        <a href="../JuraganLaptop/Pelanggan/cart.php" style="text-decoration: none; margin-right: 10px"><i class="fa-solid fa-cart-shopping"></i>
                         </a>
                     </td>
                     <td style="z-index: 99; margin-right: 10px">
-                        <a href="../TestLaptop/Pelanggan/cart.php" style="text-decoration: none; margin-right: 10px">
+                        <a href="../JuraganLaptop/Pelanggan/cart.php" style="text-decoration: none; margin-right: 10px">
                             <sup style="background: #083c8c; border-radius: 5px; font-weight: bold; margin-right: 13px; z-index: 99; color: white;">
                                 <?php
                                 include 'config.php';
@@ -81,25 +81,25 @@ if (!isset($_SESSION['username'])) {
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item2">
-                        <a class="nav-link" href="../TestLaptop/Pelanggan/main.php">Home</a>
+                        <a class="nav-link" href="../JuraganLaptop/Pelanggan/main.php">Home</a>
                     </li>
                     <li class="nav-item2 dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Laptop
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="../TestLaptop/Pelanggan/laptopgaming.php">Laptop Gaming</a></li>
-                            <li><a class="dropdown-item" href="../TestLaptop/Pelanggan/laptopkerja.php">Laptop Kerja</a></li>
+                            <li><a class="dropdown-item" href="../JuraganLaptop/Pelanggan/laptopgaming.php">Laptop Gaming</a></li>
+                            <li><a class="dropdown-item" href="../JuraganLaptop/Pelanggan/laptopkerja.php">Laptop Kerja</a></li>
                         </ul>
                     </li>
                     <li class="nav-item2">
-                        <a class="nav-link" href="../TestLaptop/Pelanggan/aboutus.php">Tentang Kami</a>
+                        <a class="nav-link" href="../JuraganLaptop/Pelanggan/aboutus.php">Tentang Kami</a>
                     </li>
                     <li class="nav-item2">
                         <a class="nav-link" href="contactus.php">Kontak Kami</a>
                     </li>
                     <li class="nav-item2">
-                        <a class="nav-link" href="../TestLaptop/Pelanggan/faq.php">FAQ</a>
+                        <a class="nav-link" href="../JuraganLaptop/Pelanggan/faq.php">FAQ</a>
                     </li>
                 </ul>
             </div>
@@ -199,21 +199,21 @@ if (!isset($_SESSION['username'])) {
                 <div class="footer-form">
                     <h4>JuraganLaptop</h4>
                     <ul>
-                        <li><a href="../TestLaptop/Pelanggan/aboutus.php">Tentang Kami</a></li>
+                        <li><a href="../JuraganLaptop/Pelanggan/aboutus.php">Tentang Kami</a></li>
                     </ul>
                 </div>
                 <div class="footer-form">
                     <h4> Produk </h4>
                     <ul>
-                        <li><a href="../TestLaptop/Pelanggan/laptopgaming.php">Laptop Gaming</a></li>
-                        <li><a href="../TestLaptop/Pelanggan/laptopkerja.php">Laptop Kerja</a></li>
+                        <li><a href="../JuraganLaptop/Pelanggan/laptopgaming.php">Laptop Gaming</a></li>
+                        <li><a href="../JuraganLaptop/Pelanggan/laptopkerja.php">Laptop Kerja</a></li>
                     </ul>
                 </div>
                 <div class="footer-form">
                     <h4> Bantuan</h4>
                     <ul>
-                        <li><a href="../TestLaptop/Pelanggan/contactus.php"> Kontak Kami</a></li>
-                        <li><a href="../TestLaptop/Pelanggan/faq.php"> FAQ</a></li>
+                        <li><a href="../JuraganLaptop/Pelanggan/contactus.php"> Kontak Kami</a></li>
+                        <li><a href="../JuraganLaptop/Pelanggan/faq.php"> FAQ</a></li>
                     </ul>
                 </div>
                 <div class="footer-form">
